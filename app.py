@@ -7,7 +7,7 @@ import matplotlib
 matplotlib.use('Agg')
 
 app = Flask(__name__)
-app.secret_key = 'dc8bbf8904cebe703746422c0f392a12'
+app.secret_key = os.getenv('SECRET_KEY')
 
 @app.route("/")
 def index():
