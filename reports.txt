@@ -1,0 +1,97 @@
+
+--- Income & Budget Report ---
+Name: Korede
+Job: Engineer
+Hourly Income: $20.00
+Annual Income: $41600.00
+Tracker Message: Korede, as a Engineer, Ehhh, manageable
+50/30/20 Plan:
+- Bills/Needs: $20,800.00
+- Wants: $12,480.00
+- Savings: $8,320.00
+-----------------------------
+Your report goes here
+--- Income & Budget Report (2025-08-27 11:38:04) ---
+Name: Korede
+Job: Engineer
+Hourly Income: $20.00
+Annual Income: $41600.00
+Tracker Message: Korede, as a Engineer, Ehhh, manageable
+50/30/20 Plan:
+- Bills/Needs: $20,800.00
+- Wants: $12,480.00
+- Savings: $8,320.00
+-----------------------------
+Your report goes hereYour report goes here
+--- Income & Budget Report (2025-08-27 11:45:09) ---
+Name: Korede
+Job: Engineer
+Hourly Income: $15.00
+Annual Income: $31200.00
+Tracker Message: Korede, as a Engineer, Ehhh, manageable
+50/30/20 Plan:
+- Bills/Needs: $15,600.00
+- Wants: $9,360.00
+- Savings: $6,240.00
+-----------------------------
+Your report goes here
+--- Income & Budget Report (2025-08-27 11:47:18) ---
+Name: Korede
+Job: Engineer
+Hourly Income: $15.00
+Annual Income: $31200.00
+Tracker Message: Korede, as a Engineer, Ehhh, manageable
+50/30/20 Plan:
+- Bills/Needs: $15,600.00
+- Wants: $9,360.00
+- Savings: $6,240.00
+-----------------------------
+Your report goes hereYour report goes hereYour report goes here
+--- Income & Budget Report (2025-08-27 11:55:21) ---
+Name: Korede
+Job: Businessman
+Hourly Income: $35.00
+Annual Income: $72800.00
+Tracker Message: Korede, as a Businessman, Wow, that's impressive!
+50/30/20 Plan:
+- Bills/Needs: $36,400.00
+- Wants: $21,840.00
+- Savings: $14,560.00
+-----------------------------
+Your report goes here
+--- Income & Budget Report (2025-09-06 17:29:40) ---
+Name: Korede
+Job: Engineer
+Hourly Income: $14.00
+Annual Income: $29120.00
+Tracker Message: Korede, as a Engineer, Ehhh, manageable
+50/30/20 Plan:
+- Bills/Needs: $14,560.00
+- Wants: $8,736.00
+- Savings: $5,824.00
+-----------------------------
+
+--- Income & Budget Report (2025-09-07 19:58:09) ---
+Name: Korede
+Job: Engineer
+Hourly Income: $100.00
+Annual Income: $208000.00
+Tracker Message: Korede, as a Engineer, Wow, that's impressive!
+50/30/20 Plan:
+- Bills/Needs: $104,000.00
+- Wants: $62,400.00
+- Savings: $41,600.00
+-----------------------------
+Your report goes hereYour report goes hereYour report goes here
+--- Income & Budget Report (2025-09-10 22:22:56) ---
+Name: Korede
+Job: Engineer
+Hourly Income: $65.00
+Annual Income: $135200.00
+Tracker Message: Korede, as a Engineer, Wow, that's impressive!
+50/30/20 Plan:
+- Bills/Needs: $67,600.00
+- Wants: $40,560.00
+- Savings: $27,040.00
+-----------------------------
+Your report goes here

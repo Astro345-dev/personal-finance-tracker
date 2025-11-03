@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head><title>Debt Payoff Calculator</title></head>
+<body>
+  <h1>Debt Payoff Calculator</h1>
+
+  {% if error %}
+    <div style="color: red;">
+      <strong>Error:</strong> {{ error }}
+      {% if min_payment %}<br>Minimum monthly payment should be &gt; ${{ min_payment }}{% endif %}
+    </div>
+  {% endif %}
+
+  <form method="post">
+    <label>Principal ($): <input name="principal" type="number" step="0.01" required></label><br>
+    <label>APR (%): <input name="apr" type="number" step="0.01" required></label><br>
+    <label>Monthly payment ($): <input name="payment" type="number" step="0.01" required></label><br>
+    <input type="submit" value="Calculate payoff">
+  </form>
+
+  <p><a href="/">Back</a></p>
+</body>
+</html>

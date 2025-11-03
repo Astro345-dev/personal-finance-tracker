@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Budget Report</title>
+</head>
+<body>
+    <h1>Budget Breakdown for ${{ income }}</h1>
+
+   <h2>50/30/20 Split (Annual)</h2>
+    <ul>
+        <li><strong>Bills/Needs:</strong> ${{ "%.2f"|format(budget['Needs']) }}</li>
+        <li><strong>Wants:</strong> ${{ "%.2f"|format(budget['Wants']) }}</li>
+        <li><strong>Savings:</strong> ${{ "%.2f"|format(budget['Savings']) }}</li>
+    </ul>
+
+    <h2>50/30/20 Chart</h2>
+    <img src="data:image/png;base64,{{ chart }}" alt="Budget Chart">
+
+    <p><a href="/budget">Back to Budget Planner</a></p>
+    <p><a href="/">Back to Home</a></p>
+</body>
+</html>
+

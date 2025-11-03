@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Investment Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+        }
+        .results {
+            background: #f4f4f4;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .results p {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Investment Results</h2>
+    <div class="results">
+        <p><strong>Final Balance:</strong> ${{ "{:,.2f}".format(result.final_balance) }}</p>
+        <p><strong>Total Contributions:</strong> ${{ "{:,.2f}".format(result.total_contributions) }}</p>
+        <p><strong>Investment Gains:</strong> ${{ "{:,.2f}".format(result.growth) }}</p>
+    </div>
+
+    <img src="{{ chart }}" alt="Investment Growth Chart">
+
+    <br>
+    <a href="/investment">Calculate Again</a>
+    <a href="/">Home</a>
+</body>
+</html>ls
